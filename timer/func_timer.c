@@ -2,9 +2,9 @@
 
    The provided function has no return value or parameters.  If those are desired, the
    function can be a wrapper function for a function with them.
-   
 
-   Code from example in http://www.guyrutenberg.com/2007/09/22/profiling-code-using-clock_gettime/
+   Code for clock_gettime from example in:
+       http://www.guyrutenberg.com/2007/09/22/profiling-code-using-clock_gettime/
 
 */
 
